@@ -1,4 +1,4 @@
-# Kasparro — Agentic Facebook Performance Analyst: Aditya Raj
+# Kasparro — Agentic Facebook Performance Analyst: Aditya Raj.
 
 ## 🚀 Quick Start
 This system autonomously diagnoses ROAS drops and generates creative recommendations using the Gemini API.
